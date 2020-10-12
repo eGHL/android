@@ -7,6 +7,9 @@
 ****
 
 # **Change Log** 
+### [**v2.5.4](https://bitbucket.org/eghl/android/commits/tag/v2.5.4)
+* Implemented EMandate
+
 ### [**v2.5.3](https://bitbucket.org/eghl/android/commits/tag/v2.5.3)
 * Added CustID parameter
 
