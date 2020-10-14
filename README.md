@@ -62,7 +62,7 @@ final PaymentParams.Builder params = new PaymentParams.Builder()
     .setPageTimeout("500")  
     .setTransactionType("SALE")      
     .setPaymentMethod("ANY")
-    .setPaymentGateway("https://test2pay.ghl.com/IPGSG/Payment.aspx");
+    .setDebugPaymentURL(true);
 ```
 Build the parameters by calling the build() method on the ```PaymentParams.Builder``` object. It will generate a Bundle object with the payment parameters that you've set.
 
