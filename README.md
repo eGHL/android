@@ -12,6 +12,8 @@
  
  1. Create a libs folder (if needed) at path your-project/android/app/libs & copy .aar file to libs folder
  
+ ![1879928768-import aar](https://user-images.githubusercontent.com/46514524/95948840-fa3edc80-0e23-11eb-8593-1698e828fd25.png)
+ 
  2. Open your project build.gradle file, in the application level gradle script, declare the following
 ```
 repositories{  
