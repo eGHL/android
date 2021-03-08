@@ -142,6 +142,7 @@ public class MainActivity extends AppCompatActivity {
                         .setPaymentGateway(paymentGateway)
                         .setPassword(password)
                         .setPaymentId(paymentID)
+//                        .setPaymentType("84C")
 //                        .setHashValue(hashValue)
 //                        .setTriggerReturnURL(true)
 //                        .setCVVOptional(true)
