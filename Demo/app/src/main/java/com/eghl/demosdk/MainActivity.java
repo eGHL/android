@@ -43,7 +43,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     public static final String PROD_HOST = "https://securepay.e-ghl.com/IPG/Payment.aspx";
-    public static final String TEST_HOST = "https://test2pay.ghl.com/IPGSG/Payment.aspx";
+    public static final String TEST_HOST = "https://pay.e-ghl.com/IPGSG/Payment.aspx";
     // TEST CHECKOUT ID 323e1841a06c42599f5a96e04ee21c65
     private PaymentParams.Builder params;
     private EGHL eghl;

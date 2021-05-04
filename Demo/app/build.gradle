@@ -37,7 +37,7 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     testImplementation 'junit:junit:4.12'
-    implementation(name: 'eghl-sdk-v2.5.5', ext: 'aar')
+    implementation(name: 'eghl-sdk-v2.5.6', ext: 'aar')
     implementation 'com.android.volley:volley:1.1.1'
     implementation 'com.google.android.material:material:1.1.0'
     implementation 'com.google.code.gson:gson:2.8.6'
